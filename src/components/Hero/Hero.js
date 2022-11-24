@@ -10,7 +10,7 @@ const Hero = (props) => (
       <LeftSection>
         <SectionTitle main center>
         Hello there!,<br />
-        I'm Saurav R.
+        I'm Saurav Marvani
         </SectionTitle>
         <SectionText>
         Someone who is enthusiastic of technology and other programming stuff, especially in the web programming field. Since I learned about programming, I finally have a dream to become a professional web developer who masters full stack front-end and back-end and data science on technology websites.
