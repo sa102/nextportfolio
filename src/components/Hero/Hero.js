@@ -15,7 +15,7 @@ const Hero = (props) => (
         <SectionText>
         Someone who is enthusiastic of technology and other programming stuff, especially in the web programming field. Since I learned about programming, I finally have a dream to become a professional web developer who masters full stack front-end and back-end and data science on technology websites.
         </SectionText>
-        <Button onClick={() => window.location = 'https://saurav-raj.vercel.app'}>Saurav R.</Button>
+        <Button onClick={() => window.location = 'https://saurav-raj.vercel.app'}>Saurav M.</Button>
       </LeftSection>
     </Section>
   </>
